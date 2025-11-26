@@ -87,7 +87,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| [DeployHQ](https://www.deployhq.com/) | Deploy code from your repository to servers automatically | 50% OFF for 3 months (auto-applied at checkout) | [Get Deal](https://www.deployhq.com/??utm_source=website&utm_medium=sponsor&utm_campaign=saas-black-friday-2025) | Nov 25 - Dec 2 |
 
 ## 📱 Mobile Apps
 
