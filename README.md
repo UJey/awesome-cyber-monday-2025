@@ -86,6 +86,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your life with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase - No Code Required | [Get Deal](https://bosc.app/chronos.html) | Nov 23 - Dec 8 |
 | [LinkYourFile](https://linkyourfile.com)| Link your local files or folders in any web application. | Lifetime 50% OFF with code **BLACKWEEKS_2025** | [Get Lifetime Deal](https://linkyourfile.com) | Nov 26th - Dec 6th | 
 | [NoteSLAYER](https://note-slayer.com) |  Your all-in-one note & task manager. From swift note additions to intuitive Kanban boards on Linux, Mac & Windows. A unified platform for all your productivity needs. Dive in today!. |30% OFF with code **BLACKFRIDAY25** | [Get Deals](https://note-slayer.lemonsqueezy.com)| Nov 15 - Dec 31 |
+| [Timemator](https://timemator.com) |  Tracks your time while you work. Automatically!| Lifetime 50% OFF with code **TM-BLACKFRIDAY25** | [Get Lifetime Deal](https://timemator.com)| Nov 27 - Dec 5 |
 
 
 ## 🌐 Hosting & Infrastructure
